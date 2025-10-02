@@ -1,4 +1,5 @@
-## Hi there 👋
+## Allo! 
+## I'm Yadu and I am currently doing my PhD in Neurobiology at the University of Trento, Italy 🇮🇹. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rorsharck&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
